@@ -1,0 +1,1 @@
+g++ task4.cpp -o t.exe -lpthread
